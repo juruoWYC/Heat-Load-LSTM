@@ -26,6 +26,6 @@ Current progress: Can predict temperature by the previous temperature
 
 - Predict temperature by the previous temperature
 
-- Use 83% of the data to train, the rest to test
+- Using 83% of the data to train, the rest to test
 
 ![](pic/predict_result2.jpg)
