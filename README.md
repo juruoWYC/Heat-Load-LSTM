@@ -1,5 +1,9 @@
 # Heat-Load-LSTM
 
+A project expected to predict heat load using LSTM
+
+Current progress: Can predict temperature by the previous temperature
+
 ## Files
 
 - /data: data in csv and mat format
