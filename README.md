@@ -8,7 +8,7 @@
 
 - visualization.py: utils function to save and show the fitted data or prediction result
 
-- lstm_base_on_TFTS.py: a single layer LSTM model base on TensorFlow Time Series(TFTS)   ***(Unsuccessful Experiment)***
+- lstm_base_on_TFTS.py: a single layer LSTM model base on TensorFlow Time Series(TFTS)***(Unsuccessful Experiment)***
 
 - lstm_base_on_cell.py: a Multi-layer LSTM model base on BasicLSTMCell API
 
